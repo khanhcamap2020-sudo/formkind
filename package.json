@@ -57,7 +57,7 @@
   },
   "homepage": "https://github.com/khanhcamap2020-sudo/formkind#readme",
   "dependencies": {
-    "parse5": "^8.0.0"
+    "parse5": "^8.1.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.2.0",
